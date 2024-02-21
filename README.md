@@ -1,6 +1,6 @@
-# Computer Vision Challenges
-
 <img width="981" alt="Computer vision challenges banner" src="https://github.com/capjamesg/computer-vision-challenges/assets/37276661/040d5811-e0dd-4272-9e07-d83ae6b229ec">
+
+# Computer Vision Challenges
 
 I love learning by trying to solve problems. I have made a few computer vision challenges that will allow you to practice your computer vision skills. You will likely learn something new in the process, too!
 
