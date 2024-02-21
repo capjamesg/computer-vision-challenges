@@ -8,6 +8,7 @@ I love learning by trying to solve problems. I have made a few computer vision c
 
 1. [Validate Detections in Rows and Columns](https://jamesg.blog/2024/02/20/validate-detections-in-rows-and-columns/)
 2. [Identify Missing Annotations](https://jamesg.blog/2024/02/21/missing-annotations/)
+3. [Identify Incorrect Annotations](https://jamesg.blog/2024/02/21/incorrect-annotations/)
 
 ## Instructions
 
